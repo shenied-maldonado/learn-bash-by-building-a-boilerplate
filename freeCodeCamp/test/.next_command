@@ -212,3 +212,4 @@ ls --color=auto
 cp --hel[p
 cp --help
 cp -r website-boilerplate toms-website
+ls --color=auto
