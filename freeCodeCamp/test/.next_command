@@ -92,3 +92,6 @@ cd ..
 ls --color=auto
 rm background.jpg
 ls --color=auto
+rm website
+rm style.css
+cp header.png images
