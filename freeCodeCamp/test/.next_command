@@ -85,3 +85,4 @@ ls --color=auto
 mkdir website
 mkdir images
 ls --color=auto
+cp background.jpg images
