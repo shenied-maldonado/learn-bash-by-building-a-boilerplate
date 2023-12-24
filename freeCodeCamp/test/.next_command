@@ -152,3 +152,4 @@ rmdir images
 rm website/images/background.jpg
 rm images/background.jpg
 rmdir images
+ls --color=auto
